@@ -1,0 +1,21 @@
+RIT CS Servers used:
+glados.cs.rit.edu
+kansas.cs.rit.edu
+doors.cs.rit.edu
+gorgon.cs.rit.edu
+newyork.cs.rit.edu
+yes.cs.rit.edu
+kinks.cs.rit.edu
+medusa.cs.rit.edu
+joplin.cs.rit.edu
+delaware.cs.rit.edu
+buddy.cs.rit.edu
+arizona.cs.rit.edu
+reddwarf.cs.rit.edu
+
+Prerequisite: 
+Create directories for each server at location : ~home/Courses/dht/SERVER_NAME/
+Create directory for client lookup directory at location: ~home/Courses/dht/Client/
+
+Optional:  
+You may choose to create seperate codebase directory for Server and Client code.

@@ -1,0 +1,17 @@
+--> HOLDER changed : glados
+( Requesting Holder - glados )
+
+### TOKEN RECEIVED
+
+*** ENTERED CS ***
+*** EXITED CS ***
+Empty Request Queue
+
+NEW CS REQUEST : glados
+	Action : Queued
+QUEUE 
+ --> glados
+QUEUE 
+
+@@@ Sending Token : glados
+--> HOLDER changed : glados
